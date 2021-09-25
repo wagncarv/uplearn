@@ -14,7 +14,7 @@ run `mix deps.get`
 Functions are located in `lib/uplearn.ex`.    
 To use the function **fetch/1**, run:  
 Elixir interactive terminal:  
-`mix -S iex` 
+`mix -S iex`  
 `Uplearn.fetch(url)`  
 
 ## Run tests
