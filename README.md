@@ -1,8 +1,16 @@
 ## Installation
-1 - clone the repository
+
+1 - Clone the repository:
+run `git clone https://github.com/wagncarv/uplearn.git`
+
+2 - Move to folder **uplearn** folder:
+`cd uplearn`
+
+3 - Install dependencies:
+run `mix deps.get`
 
 ## How to use
-
+Functions are located in `lib/uplearn.ex`.
 To use the function **fetch/1**, run:
 `Uplearn.fetch(url)`
 
@@ -10,4 +18,3 @@ To use the function **fetch/1**, run:
 
 Tests are located in **test/uplearn_test.exs**.
 To execute the tests, run `mix test`.
-# uplearn
