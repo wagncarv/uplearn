@@ -14,7 +14,7 @@ Functions are located in `lib/uplearn.ex`.
 To use the function **fetch/1**, run:  
 `Uplearn.fetch(url)`  
 
-## Run test
+## Run tests
 
 Tests are located in **test/uplearn_test.exs**.  
 To execute the tests, run `mix test`.  
