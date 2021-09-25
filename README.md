@@ -6,7 +6,7 @@ run `git clone https://github.com/wagncarv/uplearn.git`
 2 - Move to folder **uplearn** folder:  
 `cd uplearn`
 
-3 - Install dependencies:
+3 - Install dependencies:  
 run `mix deps.get`
 
 ## How to use
